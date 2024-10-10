@@ -3,15 +3,34 @@ body {
   background-size: cover;
 }
 
+:root { /*Edita o conteúdo da página toda*/
+  font-family: "Alice", serif;
+  line-height: 150%;
+  color: #573A37;
+}
+
 #page {
   box-sizing: border-box; /*tira o padrão da caixa.*/
   width: 800px;
   padding: 24px;
-  background-color: #F8E8C2;
+  background-color: #F0E8C2;
   border-radius: 24px;
   margin: 48px auto;
 }
 
 img {
   border-radius: 16px;
+}
+
+h1 {
+  line-height: 140%;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h1, h2 {
+  color: #29181A;
 }
