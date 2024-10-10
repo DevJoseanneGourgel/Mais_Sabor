@@ -1,2 +1,2 @@
 # Mais_Sabor
- Neste projeto, vou apresentar para vocês uma página com diversas receitas. 
+ Bem-vindo ao Mais Sabor! Aqui encontrarás uma colecção de receitas deliciosas e práticas para todos os momentos. Desde pratos clássicos a criações inovadoras, oferecemos instruções detalhadas passo a passo, dicas de culinária e variações para agradar a todos os gostos e níveis de experiência. Se adoras cozinhar ou queres aprender algo novo, inspira-te com as nossas receitas fáceis e saborosas que irão transformar a tua cozinha num verdadeiro espaço gourmet.
